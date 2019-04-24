@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/me/.virtualenvs/pythonreact/bin/python",
+    "python.linting.pylintEnabled": true
+}

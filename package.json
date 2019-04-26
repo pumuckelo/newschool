@@ -19,7 +19,7 @@
     "webpack-cli": "^3.3.1"
   },
   "scripts": {
-    "dev": "webpack --mode development ./newschool/frontend/src/index.js --output ./newschool/frontend/static/frontend/main.js",
+    "dev": "webpack --mode development --watch ./newschool/frontend/src/index.js --output ./newschool/frontend/static/frontend/main.js",
     "build": "webpack --mode production ./newschool/frontend/src/index.js --output ./newschool/frontend/static/frontend/main.js"
   },
   "keywords": [],
